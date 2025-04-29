@@ -1,0 +1,10 @@
+[
+  {
+    "role": "Web Developer",
+    "organisation": "Google Developer Group",
+    "startDate": "April, 2025",
+    "endDate": "Present",
+    "experiences": ["Worked on Team Project", "Reduced load times by 50%"],
+    "imageSrc": "public/assets/History/google.png"
+  }
+]

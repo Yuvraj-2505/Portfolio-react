@@ -1,0 +1,22 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "/assets/Skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "public/assets/Skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "public/assets/Skills/js.webp"
+  },
+  {
+    "title": "React",
+    "imageSrc": "public/assets/Skills/react.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "public/assets/Skills/figma.png"
+  }
+]
