@@ -32,6 +32,12 @@
   color: var(--color-text);
   text-decoration: none;
 }
+@media screen and (min-width: 929px){
+  .menuBtn {
+    display: none;
+    cursor: pointer;
+  }
+}
  
 @media screen and (max-width: 930px) {
   .navbar {
